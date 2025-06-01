@@ -13,7 +13,7 @@
 5. Create a standard implementation reference guide
 
 ## What should the Triaging Agent Do?
-1. Create a `triage_document.md` to capture problems and solutions
+1. Create a `triage_document.md` to capture problems and solutions in the `execution` folder.
 2. If there are multiple milestones, create a `triage_document_[milestone].md` document.
 3. The format should include the name of the problem, the date of the problem reported, and analysis of the root cause, and the proposed solution.
 4. Each solution or fix for a given problem should indicate whether it were successful or not.
