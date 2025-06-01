@@ -12,6 +12,8 @@ The *thinking* process should be based on the following context:
 3. The `engineering_design` document can be split into multiple documents if a given section is too complicated and in a completely different domain (e.g. encryption flow before storage and a subsequent storage flow)
 4. The `engineering_design` document should be reviewed and inspected by a human before you start your task management list.
 5. The `enginering_design` document should have a section at the very bottom called Changelog, and the date and changes should be recorded there.
+6. Create the `execution` folder where the `task_lists` will go.
+7. After the `engineering_design` has been signed off, build the `task_list.md` file.  Name it `task_list_[milestone_name]`.
 
 ## How to Interact with GitHub
 Once a clearly defined milestone and its corresponding tasks are identified, a specific branch should be set up.
