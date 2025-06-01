@@ -15,6 +15,15 @@ The *thinking* process should be based on the following context:
 6. Create the `execution` folder where the `task_lists` will go.
 7. After the `engineering_design` has been signed off, build the `task_list.md` file.  Name it `task_list_[milestone_name]`.
 
+## How to Update the Task Management List
+This is IMPORTANT for you to leverage the task management list because it will keep you focused on the right context as the window fills up.
+
+1. When you begin a task, **think** and make sure it is clear what you need to do.
+2. Does the task need to be further decomposed into sub-tasks?
+3. Every time you complete a task, mark it completed with `[x]`.
+4. When a milestone has been completed, commit to the repo and push to the remote branch.
+
+
 ## How to Interact with GitHub
 Once a clearly defined milestone and its corresponding tasks are identified, a specific branch should be set up.
 
