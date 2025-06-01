@@ -19,4 +19,6 @@
 - Every document must include a Mermaid-based sequence diagram to show the flow of data and sequence of interactions
 - Each actor in the sequence diagram must have a short descriptor
 
-  
+
+### ChangeLog
+- June 1, 2025 - Initiated
